@@ -2,7 +2,7 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div>this is zarista</div>
+    <div>this is zarista done by anjali</div>
   )
 }
 
